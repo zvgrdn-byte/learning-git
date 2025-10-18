@@ -1,1 +1,2 @@
 # learning-git
+Изучение github
